@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\Datalogs_onsemi\\Datalogs_onsemi\\Datalogs_onsemi.csproj": {}
+    "C:\\Users\\Ezer\\Desktop\\datalogs\\Ondatalog\\Datalogs_onsemi - Copy\\Datalogs_onsemi\\Datalogs_onsemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\Datalogs_onsemi\\Datalogs_onsemi\\Datalogs_onsemi.csproj": {
+    "C:\\Users\\Ezer\\Desktop\\datalogs\\Ondatalog\\Datalogs_onsemi - Copy\\Datalogs_onsemi\\Datalogs_onsemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\Datalogs_onsemi\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
+        "projectUniqueName": "C:\\Users\\Ezer\\Desktop\\datalogs\\Ondatalog\\Datalogs_onsemi - Copy\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
         "projectName": "Datalogs_onsemi",
-        "projectPath": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\Datalogs_onsemi\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
+        "projectPath": "C:\\Users\\Ezer\\Desktop\\datalogs\\Ondatalog\\Datalogs_onsemi - Copy\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
         "packagesPath": "C:\\Users\\Ezer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\Datalogs_onsemi\\Datalogs_onsemi\\obj\\",
+        "outputPath": "C:\\Users\\Ezer\\Desktop\\datalogs\\Ondatalog\\Datalogs_onsemi - Copy\\Datalogs_onsemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ezer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2024.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

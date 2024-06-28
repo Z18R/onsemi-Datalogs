@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SpWawsTTxFtTjKHy+LiGIGwP0rhYwt5pNpcJ7UydrHAviqnD8dmGSr8wPyF3Jr6ssK6132lmWwyJUlxXOQaR2A==",
+  "dgSpecHash": "gq/5ZctoskA81GN6IMw16DID0M8Fai6UyLSL5yfSt8d5Jq+HP2TZV4zmDxE+gZKn7O79D4JHCqbHw0mjmqWTfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ezer\\Desktop\\Program\\MVCtestDeploy\\Datalogs_onsemi\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ezer\\Desktop\\datalogs\\Ondatalog\\Datalogs_onsemi - Copy\\Datalogs_onsemi\\Datalogs_onsemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ezer\\.nuget\\packages\\ssh.net\\2024.0.0\\ssh.net.2024.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
